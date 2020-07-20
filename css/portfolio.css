@@ -140,7 +140,7 @@ nav.black{
 		background: #011820;
 	}
 
-.bar h1{
+.bar h2{
 	width: 15%;
 	float: left;
 	color: #fff;
@@ -149,7 +149,7 @@ nav.black{
 	float: right;
 }
 
-.bar h1 span{
+.bar h2 span{
 	color: #25689a;
 }
 
